@@ -49,7 +49,7 @@ python app.py 1,9,5,0,20,-4,12,16,7 12
 
 MIT License
 
-Copyright (c) 2023 Ronald Garzón Bohórquez
+Copyright (c) 2023 Ronald Garzón-Bohórquez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
