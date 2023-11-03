@@ -5,7 +5,8 @@ sum to a given value.
 
 ## Table of Contents
 
-- [Find Pairs ](#project-name)- [Table of Contents](#table-of-contents)
+- [Find Pairs ](#project-name)
+- [Table of Contents](#table-of-contents)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
